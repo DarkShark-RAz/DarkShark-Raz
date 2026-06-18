@@ -118,9 +118,7 @@ class SnehalRaz:
 <p align="center">
   <a href="mailto:snehalraj85@gmail.com"><img src="https://img.shields.io/badge/Email-E37E10?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/DarkShark-RAz"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <!-- TODO: replace the # below with your real profile URLs, then delete this comment -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X%2FTwitter-0a0a0a?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/raj_sn3hal"><img src="https://img.shields.io/badge/X%2FTwitter-0a0a0a?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
 </p>
 
 <!-- ===================== FOOTER ===================== -->
