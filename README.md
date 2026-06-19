@@ -3,7 +3,7 @@
 # Hi, I'm Snehal Raj
 
 ```js
-// Web Developer — build cool things. question everything.
+// Software Developer — build cool things. question everything.
 ```
 
 I build for the web and stay curious about the systems underneath it — where AI, software, and philosophy overlap. Always learning, always shipping.
